@@ -1,0 +1,96 @@
+.first-box{
+background-color: orange;
+width: 120px;
+height: 70px;
+margin-left: 427px;
+}
+
+.second-box{
+background-color: #b51bb5;
+width: 120px;
+height: 70px;
+}
+
+.third-box{
+background-color: #5353d9;
+width: 120px;
+height: 70px;
+}
+
+.fourth-box{
+background-color: whitesmoke;
+width: 120px;
+height: 70px;
+margin-left: 427px;
+}
+
+.fifth-box{
+background-color: yellow;
+width: 120px;
+height: 70px;
+}
+
+.six-box{
+background-color: red;
+width: 120px;
+height: 70px;
+}
+
+.seventh-box{
+background-color: green;
+width: 120px;
+height: 70px;
+margin-left: 427px;
+}
+
+.eigth-box{
+background-color: whitesmoke;
+width: 120px;
+height: 70px;
+}
+
+.nine-box{
+background-color: chocolate;
+width: 120px;
+height: 70px;
+}
+
+.shuffle-btn{
+    background-color: #4e4ee3;
+    margin-left: 531px;
+    margin-top: 36px;
+    color: white;
+    border-radius: 13px;
+    width: 70px;
+    height: 27px;
+}
+
+.sort-btn{
+    background-color: #4e4ee3;
+    margin-top: 36px;
+    color: white;
+    border-radius: 13px;
+    width: 70px;
+    height: 27px;
+}
+
+.footer-text{
+font-family: serif;
+    margin-left: 450px;
+}
+
+
+.first-digit{
+text-align: center;
+padding-top: 20px;
+font-weight: 800;
+}
+
+.shuffle-sort{
+margin-left: 562px;
+font-size: smaller;
+}
+
+.flex-items{
+display:flex;
+}
